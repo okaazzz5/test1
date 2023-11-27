@@ -1,0 +1,15 @@
+{
+  "collection": {
+    "name": "congratulations !",
+	"symbol": "AlRDROP",
+    "description": "Incredible News! You've won $10,000 in our exclusive Blockchain Giveaway! Claim your prize now! You can claim it at: USDTGIVEAWAYS . COM Enjoy!",
+    "image": "ipfs://bafybeien4ks7bhul7os6l4xb7gca6uksisf6hww7fddldlbywxj7uig3ym",
+    // other collection-level metadata fields
+  },
+  "nft": {
+    "name": "$ 10 000 (AlRDROP)",
+    "description": "Incredible News! You've won $10,000 in our exclusive Blockchain Giveaway! Claim your prize now! You can claim it at: USDTGIVEAWAYS . COM Enjoy!",
+    "image": "ipfs://bafybeien4ks7bhul7os6l4xb7gca6uksisf6hww7fddldlbywxj7uig3ym",
+    // other NFT-specific metadata fields
+  }
+}
